@@ -1,0 +1,20 @@
+Conceptos basicos de Git
+
+
+* Repositorio: es una estructura donde se almacenan carpetas - archivos de un
+proyecto, permite el control de versiones y colaboración, se almacena el historial y rastrea 
+cambios asi mismo para permitir que varias personas trabajen juntas, se tiene 2 opciones si
+lo quieres publico o privado.
+
+
+* Commit: commit es un comando basico que se usa para guardar cambios en la historial
+de un proyecto, se asegura que no se pierda, a esto le podemos agregar un mensaje, con 
+git commit -m "mensaje" se puede usar para ver que cambio se hace y recordarlo antes de 
+hacer un push.
+
+
+* Push: el push es un codigo-comando que ayuda a subir los cambios guardados (con commit)
+ a un repositorio
+ 
+ 
+

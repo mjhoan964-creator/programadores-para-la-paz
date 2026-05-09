@@ -1,0 +1,11 @@
+¿Por que es importante que los proyectos de sotfware mantengan un registro de cambios usando
+herramientas como git?
+
+
+R/ Es importante por que gracias a los registros podemos visualizar el historial completo que permite
+consultar cada modificación desde el inicio del proyecto, permite identificar que linea de codigo 
+introdujo un problema, permite con precision que se cambio, cuando y quien lo hizo.
+Podemos revisar el codigo: facilita de otros integrantes evaluen los cambios en el
+historial antes de integrarlos al proyecto principal, gestionar las ramas permite
+ experimentar con nuevas caracteristicas o solucionar errores sin afectar el codigo 
+base, Git es una herramienta muy util gracias a su rendimiento y rapidez 
