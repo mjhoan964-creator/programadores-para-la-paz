@@ -2,7 +2,8 @@
 herramientas como git?
 
 
-R/ Es importante por que gracias a los registros podemos visualizar el historial completo que permite
+Respuesta/
+Es importante por que gracias a los registros podemos visualizar el historial completo que permite
 consultar cada modificación desde el inicio del proyecto, permite identificar que linea de codigo 
 introdujo un problema, permite con precision que se cambio, cuando y quien lo hizo.
 Podemos revisar el codigo:
